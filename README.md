@@ -7,7 +7,7 @@ a gem that adds a white theme with dark top navigation and some red
 [demo installation of learnery with theme webdev](http://limitless-tor-9264.herokuapp.com/)
 
 learnery is an app for organizing learning events
-https://github.com/learnery/theme-blank.git
+https://github.com/learnery/learnery
 
 ## Installation
 
