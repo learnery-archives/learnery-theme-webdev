@@ -1,12 +1,12 @@
 # Learnery::Theme (variant: webdev)
 
-A yellow theme for learnery with some images.
+a gem that adds a white theme with dark top navigation and some red
 
 ![learnery with theme webdev](http://learnery.github.io/images/screenshot-2.png) 
 
 [demo installation of learnery with theme webdev](http://limitless-tor-9264.herokuapp.com/)
 
-learnery is and app for organizing learning events
+learnery is an app for organizing learning events
 https://github.com/learnery/theme-blank.git
 
 ## Installation
