@@ -8,12 +8,13 @@ and deploy the app to heroku in a few simple steps.
 
 ### This Site
 
-Look at the URL of this site: http://learnery.herokuapp.com/ is it the official demo
-site of Learnery.
+Look at the URL of this site: 
+http://limitless-tor-9264.herokuapp.com/
+is it the official demo site of Learnery with theme-webdev
 
 Do you see a differnt URL?  Then this is some 
-installation of learnery, with the default theme
-and the default static pages that come with it.
+installation of learnery, with theme-webdev installed
+and showing default static pages that come with it.
 
 ### Try it now
 
